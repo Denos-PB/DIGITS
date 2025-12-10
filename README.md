@@ -27,7 +27,7 @@ DIGITS is a state-of-the-art handwritten digit recognition system designed to ou
 To explore the capabilities of DIGITS, clone this repository and follow the instructions below:
 
 ```bash
-git clone https://github.com/yourusername/DIGITS.git
+git clone https://github.com/Denos-PB/DIGITS.git
 cd DIGITS
 # Setup your environment and dependencies here
 ```
